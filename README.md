@@ -20,7 +20,8 @@
 - `star` 并 `fork` 😘
 - 按照下方部署操作来安装依赖
 - 在 `.env` 文件中进行配置修改
-- 将打包后的文件上传至网站空间或者直接使用 `Vercel` 或者 `Cloudflare` 直接部署该项目（要先打包再部署，cloudflare中选择Workers 和 Pages，创建，Pages，连接到 Git，连接你的github，选择你fork下来的存储库，框架预设选择vue或者其他，构建命令填入pnpm build，保存并部署就可以了）
+- 将打包后的文件上传至网站空间或者直接使用 `Vercel` 或者 `Cloudflare` 直接部署该项目
+- （要先打包再部署，cloudflare中选择Workers 和 Pages，创建，Pages，连接到 Git，连接你的github，选择你fork下来的存储库，框架预设选择vue或者其他，构建命令填入pnpm build，保存并部署就可以了）
 
 ## 部署
 
